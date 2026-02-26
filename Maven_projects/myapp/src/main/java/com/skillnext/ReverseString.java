@@ -1,3 +1,5 @@
+package com.skillnext;
+
 import java.util.Scanner;
 
 public class ReverseString {

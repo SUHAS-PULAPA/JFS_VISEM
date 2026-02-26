@@ -1,3 +1,5 @@
+package com.skillnext;
+
 public class Fibonacci {
 
     public static void main(String[] args) {

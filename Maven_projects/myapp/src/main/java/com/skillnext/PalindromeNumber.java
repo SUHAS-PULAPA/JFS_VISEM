@@ -1,3 +1,5 @@
+package com.skillnext;
+
 import java.util.*;
 
 public class PalindromeNumber {
